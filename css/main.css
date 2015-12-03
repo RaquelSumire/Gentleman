@@ -1,3 +1,6 @@
+.fondo-general{
+	background: #f4f4f4;
+}
 header{
 	background: #222222; width: 100%; color: #FAFAFA;
 }
@@ -20,7 +23,7 @@ header{
 /*Seccion 1*/
 
 #fondo{
-	background: #f4f4f4; width: 100%; padding: 40px;
+	background: #fff; width: 100%; padding: 40px;
 }
 .boton-1{
 	border-radius: 20px; padding: 5px 20px 5px 20px; margin-top: 40px; background: grey; color: #fff;
